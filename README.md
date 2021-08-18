@@ -1,2 +1,9 @@
-# info-center
-WIP: TUI based information gathering tools.
+## TUI based information gathering tools
+
+## TODO
+ * config support
+ * plugin: file_watcher
+ * plugin: weather
+ * plugin: AQI
+ * plugin: funding
+ * plugin: timezone
